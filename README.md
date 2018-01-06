@@ -1,0 +1,2 @@
+# shoppingday
+Previsão de compras
